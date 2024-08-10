@@ -1,4 +1,10 @@
-Dengan ini saya merasa bahwa nilai yang saya dapatkan adalah 100, karena telah sesuai dengan ketentuan yang telah di tetapkan.
+Proyek ini adalah contoh sederhana aplikasi pengolahan data Keluarga menggunakan Java sebagai tugas akhir dari mata kuliah pemrograman berbasis objek 1.
+
+Aplikasi ini menerima input berupa nama dan umur, dan memberikan output berupa informasi detail dari nama dan umur.
+
+Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overloading, Overriding, Seleksi, Perulangan, IO Sederhana, Array, dan Error Handling.
+
+Berikut adalah bagian kode yang relevan dengan konsep OOP yang dijelaskan:
 
 1. Berikut adalah kodingan Orang.java
 
@@ -285,3 +291,28 @@ public static int inputUmur(Scanner scanner) {
     }
     return umur;
 }
+
+## Usulan nilai
+
+| No  | Materi         |  Nilai  |
+| :-: | -------------- | :-----: |
+|  1  | Class          |    5    |
+|  2  | Object         |    5    |
+|  3  | Atribut        |    5    |
+|  4  | Constructor    |    5    |
+|  5  | Mutator        |    5    |
+|  6  | Accessor       |    5    |
+|  7  | Encapsulation  |    5    |
+|  8  | Inheritance    |    5    |
+|  9  | Polymorphism   |   10    |
+| 10  | Seleksi        |    5    |
+| 11  | Perulangan     |    5    |
+| 12  | IO Sederhana   |   10    |
+| 13  | Array          |   15    |
+| 14  | Error Handling |   15    |
+|     | **TOTAL**      | **100** |
+
+## Pembuat
+
+Nama: Rafli Arizqi Kurniawan
+NPM: 2110010611
