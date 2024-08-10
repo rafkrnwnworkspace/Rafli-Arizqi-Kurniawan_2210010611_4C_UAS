@@ -1,3 +1,4 @@
+Dengan ini saya merasa bahwa nilai yang saya dapatkan adalah 100, karena telah sesuai dengan ketentuan yang telah di tetapkan.
 
 1. Berikut adalah kodingan Orang.java
 
